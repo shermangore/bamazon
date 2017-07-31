@@ -30,11 +30,15 @@ An Amazon-like storefront with a MySQL database.  The app will take in orders fr
 2) Select a function to start (View Products)
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Manager_1.PNG "Select a function (view products)")
 3) View Products
+
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Manager_2.PNG "View products")
+
 4) Select a function to start (View Low Inventory)
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Manager_3.png "Select a function (view low inventory)")
 5) View Low Inventory
+
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Manager_4.png "View low inventory")
+
 6) Select a function to start (Add To Inventory)
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Manager_5.png "Select a function (add to inventory)")
 7) Select an item to increase the available inventory
@@ -56,17 +60,17 @@ An Amazon-like storefront with a MySQL database.  The app will take in orders fr
 
 #### Supervisor
 1) Start the manager application
-![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_1.PNG "Starting the supervisor app")
+![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_1.png "Starting the supervisor app")
 2) Select a function to start (View Product Sales by Department)
-![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_2.PNG "View product sales")
+![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_2.png "View product sales")
 3) View Product Sales
-![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_3.PNG "View results")
+![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_3.png "View results")
 4) Select a function to start (Create New Department)
-![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_4.PNG "Create new department")
+![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_4.png "Create new department")
 5) Enter the new department name
-![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_6.PNG "Enter name")
+![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_6.png "Enter name")
 6) Enter the overhead of the department
-![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_7.PNG "Enter overhead amount")
+![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_7.png "Enter overhead amount")
 7) Restart the process or quit the app
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_8.png "Restart or quit")
 
