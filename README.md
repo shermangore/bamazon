@@ -64,7 +64,9 @@ An Amazon-like storefront with a MySQL database.  The app will take in orders fr
 2) Select a function to start (View Product Sales by Department)
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_2.png "View product sales")
 3) View Product Sales
+
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_3.png "View results")
+
 4) Select a function to start (Create New Department)
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Supervisor_4.png "Create new department")
 5) Enter the new department name
