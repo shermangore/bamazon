@@ -10,13 +10,15 @@ An Amazon-like storefront with a MySQL database.  The app will take in orders fr
 #### Customer:
 1) Start the customer application
 
-![alt text][logo]
-[logo]: https://s3.amazonaws.com/bamazon-screenshots/Customer_1.PNG "Starting the customer app"
+![alt text](https://s3.amazonaws.com/bamazon-screenshots/Customer_1.PNG "Starting the customer app")
 2) Select the item you'd like to purchase
+
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Customer_2.PNG "Select an item")
 3) Input the number of units you'd like to buy
+
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Customer_3.PNG "Select the quantity")
 4) Indicate whether you'd like to buy another item
+
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Customer_4.PNG "Buy another?")
 
 #### Manager:
