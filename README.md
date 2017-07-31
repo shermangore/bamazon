@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# Bamazon
 An Amazon-like storefront with a MySQL database.  The app will take in orders from customers and deplete stock from the store's inventory.  Provide a summary of the highest-grossing departments in the store.
 ## Installation
 1) git clone the repository to your local computer
@@ -9,6 +9,7 @@ An Amazon-like storefront with a MySQL database.  The app will take in orders fr
 ### The application has three user levels: Customer, Manager, Supervisor.  Each level is accessed separately
 #### Customer:
 1) Start the customer application
+
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Customer_1.PNG "Starting the customer app")
 2) Select the item you'd like to purchase
 ![alt text](https://s3.amazonaws.com/bamazon-screenshots/Customer_2.PNG "Select an item")
