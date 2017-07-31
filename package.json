@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "0.0.1",
+  "description": "Amazon-like storefront using MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shermangore/bamazon.git"
+  },
+  "author": "Sherman Gore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shermangore/bamazon/issues"
+  },
+  "homepage": "https://github.com/shermangore/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.0"
+  }
+}
